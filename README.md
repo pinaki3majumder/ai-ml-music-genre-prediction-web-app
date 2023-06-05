@@ -1,5 +1,5 @@
 # AI ML MUSIC GENRE PREDICTION WEB APP
-Deploy a machine-learning web app that makes predictions based on data using Python and Flask.
+Deploy a machine-learning web app that makes predictions based on .csv file using Python and Flask.
 
 
 ## Features
