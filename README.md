@@ -13,9 +13,9 @@ Welcome to `AI ML MUSIC GENRE PREDICTION WEB APP`. This guide will help you get 
 
 
 ### Built With
-* Flask
-* Python
-* Pandas
+* Flask v2.3.2
+* Python v3.11.3
+* Pandas v2.0.2
 * Bootstrap v5.3.0
 
 
@@ -56,6 +56,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Flask o
   ```
 
 
+### Command to check versions
+* Flask `pip show flask`
+* Python `python --version`
+* Pandas `pip show pandas`
+
+
 ## Roadmap
 - [x] Create a prediction model in Python
 - [x] Integrate python model in a web app using Flask
@@ -76,4 +82,4 @@ We welcome contributions from the community! If you'd like to contribute to [Pro
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Support
-We hope you find `AI ML MUSIC GENRE PREDICTION WEB APP` useful and enjoy using it! Thank you for your interest and contributions.
+I hope that you will find `AI ML MUSIC GENRE PREDICTION WEB APP` project useful and enjoy using it! Thank you for your interest and contributions.
