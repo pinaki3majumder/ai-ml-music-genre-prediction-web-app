@@ -13,10 +13,12 @@ Welcome to `AI ML MUSIC GENRE PREDICTION WEB APP`. This guide will help you get 
 
 
 ### Built With
-* Flask v2.3.2
-* Python v3.11.3
-* Pandas v2.0.2
-* Bootstrap v5.3.0
+* Flask `v2.3.2`
+* Python `v3.11.3`
+* Pandas `v2.0.2`
+* scikit-learn `v1.2.2`
+* joblib `v1.2.0`
+* Bootstrap `v5.3.0`
 
 
 ### Prerequisites
@@ -60,6 +62,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Flask o
 * Flask `pip show flask`
 * Python `python --version`
 * Pandas `pip show pandas`
+* scikit-learn `pip show scikit-learn`
+* joblib `pip show joblib`
 
 
 ## Roadmap
