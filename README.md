@@ -21,7 +21,7 @@ Welcome to `AI ML MUSIC GENRE PREDICTION WEB APP`. This guide will help you get 
 * Bootstrap `v5.3.0`
 
 
-### Prerequisites
+## Prerequisites
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Flask or Python library.
 
 
@@ -58,7 +58,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Flask o
   ```
 
 
-### Command to check versions
+## Command to check versions
 * Flask `pip show flask`
 * Python `python --version`
 * Pandas `pip show pandas`
