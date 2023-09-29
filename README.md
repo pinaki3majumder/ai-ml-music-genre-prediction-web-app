@@ -1,11 +1,11 @@
 # AI ML MUSIC GENRE PREDICTION WEB APP
-Deploy a machine-learning web app that makes predictions based on .csv file using Python and Flask.
+This application leverages the power of Artificial Intelligence and Machine Learning, using Python and Flask. Its primary purpose is to predict music genres that resonate with users' age and gender, offering a personalized music discovery journey like never before.
 
 
-## Features
-Developed an `AI ML MUSIC GENRE PREDICTION WEB APP` that predicts the recommended music genre based on the user's age and gender.
-* pass user input to python model
-* return model output to HTML page
+## Key Features
+* Advanced AI and ML models for accurate genre predictions.
+* Sleek and user-friendly web interface for easy interaction.
+* Provides age and gender specific music genre recommendations.
 
 
 ## Getting Started
