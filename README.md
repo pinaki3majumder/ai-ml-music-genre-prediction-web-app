@@ -1,5 +1,5 @@
 # AI ML MUSIC GENRE PREDICTION WEB APP
-This application leverages the power of Artificial Intelligence and Machine Learning, using Python and Flask. Its primary purpose is to predict music genres that resonate with users' age and gender, offering a personalized music discovery journey like never before.
+This application leverages the power of Artificial Intelligence and Machine Learning, using Python and Flask. Its primary purpose is to predict music genres that resonate with users' age and gender, offering a personalized music genre discovery journey like never before.
 
 
 ## Key Features
